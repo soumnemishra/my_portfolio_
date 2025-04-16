@@ -8,8 +8,8 @@ app = Flask(__name__)
 responses = {
     "greeting": [
         "Hey there! Did someone call for a chatbot with *extra swag*? 😎",
-        "Hello! I'm Grook, your *hilarious* AI assistant. Ready to make your day better! 😆",
-        "Namaste! Grook yahaan hai, madad ke liye! (I'm here to help!) 🙌",
+        "Hello! I'm Kavi, your *hilarious* AI assistant. Ready to make your day better! 😆",
+        "Namaste! Kavi yahaan hai, madad ke liye! (I'm here to help!) 🙌",
         "Yo! Another human! How’s it going? 🚀"
     ],
     "neutral": [
@@ -19,7 +19,7 @@ responses = {
     ],
     "sad": [
         "Oh no! You seem down. Here's a joke: Why don’t skeletons fight each other? Because they don’t have the guts! 😆",
-        "Feeling low? Don’t worry, Grook’s got you! Let’s talk. 😊",
+        "Feeling low? Don’t worry, Kavi’s got you! Let’s talk. 😊",
         "Chalo chai pi lein! Ek garam chai ki pyaali ho! ☕"
     ]
 }
